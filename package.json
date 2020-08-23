@@ -2,7 +2,7 @@
   "name": "kud_bosancica",
   "version": "0.1.0",
   "private": true,
-  "homepage": "kudbosancica.de",
+  "homepage": "http://reha350.github.io/Bosancica",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
     "@fortawesome/free-solid-svg-icons": "^5.13.1",

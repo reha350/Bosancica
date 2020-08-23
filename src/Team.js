@@ -21,8 +21,8 @@ function Team() {
 
         <div class="pe">
           <img src = {m1}  alt=""></img>
-          <div class="p-name">Ime Prezime</div>
-          <div class="p-des">pozicija</div>
+          <div class="p-name">Husmira Durmić Tadić</div>
+          <div class="p-des">Predsjednik</div>
         </div>
 
         <div class="pe">
@@ -33,20 +33,20 @@ function Team() {
 
         <div class="pe">
           <img src={m3}  alt=""></img>
-          <div class="p-name">Ime Prezime</div>
+          <div class="p-name">Almir Botić</div>
           <div class="p-des">pozicija</div>
         </div>
 
         <div class="pe">
           <img src={m4}  alt=""></img>
-          <div class="p-name">Ime Prezime</div>
+          <div class="p-name">Mersiha Botić</div>
           <div class="p-des">pozicija</div>
         </div>
 
         <div class="pe">
           <img src={m5}  alt=""></img>
-          <div class="p-name">Ime Prezime</div>
-          <div class="p-des">pozicija</div>
+          <div class="p-name">Semir Muratovic</div>
+          <div class="p-des">Koreograf</div>
 
 
           {/*<div class="p-sm">
@@ -59,13 +59,13 @@ function Team() {
 
         <div class="pe">
           <img src={m6}  alt=""></img>
-          <div class="p-name">Ime Prezime</div>
-          <div class="p-des">pozicija</div>
+          <div class="p-name">Senad Kmetaš</div>
+          <div class="p-des">2. Potpredsjednik</div>
         </div>
 
         <div class="pe">
           <img src={m7}  alt=""></img>
-          <div class="p-name">Ime Prezime</div>
+          <div class="p-name">Armin Ibišević</div>
           <div class="p-des">pozicija</div>
         </div>
 
