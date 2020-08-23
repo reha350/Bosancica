@@ -6,14 +6,14 @@
     "runtime-main.js": "/Bosancica/static/js/runtime-main.86a46033.js",
     "runtime-main.js.map": "/Bosancica/static/js/runtime-main.86a46033.js.map",
     "static/css/2.3699ddb1.chunk.css": "/Bosancica/static/css/2.3699ddb1.chunk.css",
-    "static/js/2.e22680f4.chunk.js": "/Bosancica/static/js/2.e22680f4.chunk.js",
-    "static/js/2.e22680f4.chunk.js.map": "/Bosancica/static/js/2.e22680f4.chunk.js.map",
+    "static/js/2.55250067.chunk.js": "/Bosancica/static/js/2.55250067.chunk.js",
+    "static/js/2.55250067.chunk.js.map": "/Bosancica/static/js/2.55250067.chunk.js.map",
     "index.html": "/Bosancica/index.html",
-    "precache-manifest.49a6e1fc28a39e6e3d3244064dec2604.js": "/Bosancica/precache-manifest.49a6e1fc28a39e6e3d3244064dec2604.js",
+    "precache-manifest.e469b860a980244db8e58f1f669d584a.js": "/Bosancica/precache-manifest.e469b860a980244db8e58f1f669d584a.js",
     "service-worker.js": "/Bosancica/service-worker.js",
     "static/css/2.3699ddb1.chunk.css.map": "/Bosancica/static/css/2.3699ddb1.chunk.css.map",
     "static/css/main.8caf4e27.chunk.css.map": "/Bosancica/static/css/main.8caf4e27.chunk.css.map",
-    "static/js/2.e22680f4.chunk.js.LICENSE.txt": "/Bosancica/static/js/2.e22680f4.chunk.js.LICENSE.txt",
+    "static/js/2.55250067.chunk.js.LICENSE.txt": "/Bosancica/static/js/2.55250067.chunk.js.LICENSE.txt",
     "static/media/1.JPG": "/Bosancica/static/media/1.edd2e675.JPG",
     "static/media/10.JPG": "/Bosancica/static/media/10.24ba4316.JPG",
     "static/media/11.JPG": "/Bosancica/static/media/11.ff8ce1de.JPG",
@@ -79,7 +79,7 @@
   "entrypoints": [
     "static/js/runtime-main.86a46033.js",
     "static/css/2.3699ddb1.chunk.css",
-    "static/js/2.e22680f4.chunk.js",
+    "static/js/2.55250067.chunk.js",
     "static/css/main.8caf4e27.chunk.css",
     "static/js/main.b03d3faf.chunk.js"
   ]

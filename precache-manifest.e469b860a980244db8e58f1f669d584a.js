@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33c47050bc60e8b2db07afabf58c856f",
+    "revision": "77c9222d61f4ef5965ceaf3d62663b62",
     "url": "/Bosancica/index.html"
   },
   {
-    "revision": "5fd7b4fe82af91ea5a0e",
+    "revision": "750d5238b08860127a3a",
     "url": "/Bosancica/static/css/2.3699ddb1.chunk.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bosancica/static/css/main.8caf4e27.chunk.css"
   },
   {
-    "revision": "5fd7b4fe82af91ea5a0e",
-    "url": "/Bosancica/static/js/2.e22680f4.chunk.js"
+    "revision": "750d5238b08860127a3a",
+    "url": "/Bosancica/static/js/2.55250067.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Bosancica/static/js/2.e22680f4.chunk.js.LICENSE.txt"
+    "url": "/Bosancica/static/js/2.55250067.chunk.js.LICENSE.txt"
   },
   {
     "revision": "95102413e718bf9f3443",
